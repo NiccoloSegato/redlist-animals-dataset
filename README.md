@@ -4,3 +4,7 @@
 
 Repository contenente il dataset di IUCN Red List riguardo lo stato del rischio di estinzione degli animali.
 Fonte: https://www.iucnredlist.org/search
+
+## How to download
+
+Scaricare il dataset dalla release v1.0.0 della repository
